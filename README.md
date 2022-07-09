@@ -16,6 +16,6 @@
 
 ## Step 3
 
-app url: http://localhost:3000
-email: ismail@test.com
-password: ismail123
+app url: ###`http://localhost:3000`
+email: ###`ismail@test.com`
+password: ###`ismail123`
