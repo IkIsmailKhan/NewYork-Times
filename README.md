@@ -1,6 +1,4 @@
-## Step 1
-
-clone and run server with these commands
+## Step 1 - clone and run server with these commands
 
 ### `git clone https://github.com/techiediaries/fake-api-jwt-json-server.git`
 ### `cd fake-api-jwt-json-server`
@@ -8,9 +6,7 @@ clone and run server with these commands
 
 
 
-## Step 2
-
-clone and run react app with these commands
+## Step 2 - clone and run react app with these commands
 
 ### `git clone https://github.com/IkIsmailKhan/NewYork-Times.git`
 ### `cd NewYork-Times`
