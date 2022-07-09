@@ -2,6 +2,7 @@
 
 ### `git clone https://github.com/techiediaries/fake-api-jwt-json-server.git`
 ### `cd fake-api-jwt-json-server`
+### `npm intall`
 ### `npm run start-auth`
 
 
@@ -10,6 +11,7 @@
 
 ### `git clone https://github.com/IkIsmailKhan/NewYork-Times.git`
 ### `cd NewYork-Times`
+### `npm intall`
 ### `npm start`
 
 
