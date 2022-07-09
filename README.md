@@ -3,8 +3,8 @@
 commands for server
 
 ### `git clone https://github.com/techiediaries/fake-api-jwt-json-server.git`
-### cd fake-api-jwt-json-server
-### npm run start-auth
+### `cd fake-api-jwt-json-server`
+### `npm run start-auth`
 
 
 ## Step 2
@@ -12,8 +12,8 @@ commands for server
 commands for react app
 
 ### `git clone https://github.com/IkIsmailKhan/NewYork-Times.git`
-### cd NewYork-Times
-### npm start
+### `cd NewYork-Times`
+### `npm start`
 
 
 ## Step 3
