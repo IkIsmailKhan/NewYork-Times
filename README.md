@@ -19,5 +19,5 @@
 ## Step 3 - Open browser
 
 ### `app url: http://localhost:3000`
-### `email: ismail@test.com`
-### `password: ismail123`
+### `email: nilson@email.com`
+### `password: nilson`
